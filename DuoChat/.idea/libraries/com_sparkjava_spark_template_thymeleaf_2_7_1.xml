@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="com.sparkjava:spark-template-thymeleaf:2.7.1" type="repository">
+    <properties maven-id="com.sparkjava:spark-template-thymeleaf:2.7.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spark-template-thymeleaf-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-3.0.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ognl-3.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/attoparser-2.0.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unbescape-1.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-extras-java8time-3.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spark-core-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-server-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-http-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-util-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-io-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-webapp-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-xml-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-servlet-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetty-security-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-server-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-common-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-client-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-servlet-9.3.6.v20151106.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/websocket-api-9.3.6.v20151106.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
